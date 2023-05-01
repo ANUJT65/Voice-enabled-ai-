@@ -1,0 +1,5 @@
+//const openAIAPIKey='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';
+//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
+//const openAIAPIKey='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';
+//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
+const openAIAPIKey='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';
